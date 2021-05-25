@@ -66,13 +66,28 @@ Después de completar este laboratorio, serás capaz de:
 12. Ahora que ha confirmado que el documento está en su biblioteca, regrese a la página de inicio principal del Service Trust Portal haciendo clic en el menú superior **Service Trust Portal** (**Portal de confianza del servicio**).
 
 
-#### Tarea 2: XXXXXXX.
+#### Tarea 2: En la tarea anterior, seleccionó Informes de auditoría directamente desde la página de destino, pero como verá, hay diferentes formas de acceder a la gran cantidad de contenido disponible en el Portal de confianza de servicios. En esta tarea, explorará las distintas pestañas en la parte superior de la página.
+
+1. Desde la parte superior de la página Service Trust Portal, seleccione **Trust Documents**.
+
+2. Seleccione **Data Protection ** (Protección de Datos). Aunque prácticamente se muestran las mismas categorías tal y como vio en la tarea anterior, estos recursos son enfocados a la protección de datos.
+
+3. Seleccione **ISO Reports** (Informes ISO). Comparado a la lista de informes de la tarea anterior, aquí se muestra un subconjunto más pequeño de documentos que son enfocados en la protección de datos.
+
+4. Desde la parte superior de la página, seleccione **Industries & Regions** (Industrias y Regiones). Seleccione **Regional Solution**s (Soluciones Regionales). Note las diferentes regiones listadas. Seleccione **United Kingdom**.
+
+5. Puede seleccionar desde diferentes categorías. Incluyendo **GRC Assessment Reports**, **Compliance Guides**, y más. Al igual que la tarea anterior, puede filtrar la lista de documentos mostrados y seleccionar documentos para su descarga o guardarlo en su biblioteca.
 
 #### Tarea 3: En esta tarea visitará el Trust Center (Centro de Confianza) y navegará a los seis principios claves de privacidad de Microsoft.
 
+1. Desde la parte superior de la página Service Trust Portal, seleccione **Trust Center ** y elija **Home**. Esto abre una nueva pestaña en el navegador y carga la página de Trust Center donde encontrará más información sobre seguridad, cumplimiento y privacidad en Microsoft Cloud.
 
+2. Desde la parte superior de la página, seleccione **Privacy** (Privacidad), y seleccione **Resources** (Recursos).
 
-  
-#### Review
+3. Seleccione **Additional privacy resources** (Recursos de privacidad adicionales).
 
-Maecenas fringilla ac purus non tincidunt. Aenean pellentesque velit id suscipit tempus. Cras at ullamcorper odio.
+4. Seleccione **Learn more** (Más información) en **Privacy at Microsoft** (Privacidad en Microsoft).
+
+5. Revise los seis principios claves de privacidad.
+
+6. Cierre su navegador para salir del Service Trust Portal y el Trust Center.

@@ -23,7 +23,7 @@ Después de completar este laboratorio, serás capaz de:
 
 ## Lab Setup
 
-  - **Tiempo estimado**: 00 minutes
+  - **Tiempo estimado**: 30 minutes
 
 ## Instrucciones
 
@@ -33,9 +33,6 @@ Después de completar este laboratorio, serás capaz de:
 
 1. Tener una cuenta de servicios de nube de Microsoft. 
 
-1. Suspendisse viverra mauris in metus laoreet consectetur. 
-
-1. Sed diam risus, convallis quis condimentum at, egestas malesuada libero. 
 
 ### Ejercicio 1: 
 

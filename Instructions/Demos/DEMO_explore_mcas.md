@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft Cloud App Security'.
     module: 'Módulo 3, lección 4: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir la protección contra amenazas con Microsoft 365 Defender'.

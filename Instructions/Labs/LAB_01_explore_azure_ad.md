@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar Azure Active Directory'
     module: 'Módulo 2, lección 1: Describir las funcionalidades de las soluciones de administración de identidades y acceso de Microsoft: Explorar los servicios y tipos de identidad de Azure AD'

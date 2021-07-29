@@ -1,7 +1,7 @@
 ﻿---
 Demo:
-    title: 'Grupos de seguridad de red (NSG) de Azure'.
-    module: 'Módulo 3, lección 1: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir las funcionalidades de seguridad básicas en Azure'.
+    title: 'Grupos de seguridad de red (NSG) de Azure'
+    module: 'Módulo 3, lección 1: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir las funcionalidades de seguridad básicas en Azure'
 ---
 
 # Demo: Grupos de seguridad de red (NSG) de Azure
@@ -26,7 +26,7 @@ En esta demo, hará una demostración de la funcionalidad de un grupo de segurid
     1. **Región**:  deje el valor predeterminado.
     1. **Opciones de disponibilidad**: asegúrese de seleccionar **No se requiere redundancia de la infraestructura**.  NOTA: Es muy importante que configure las opciones de disponibilidad en No se requiere redundancia de la infraestructura; de lo contrario, la demo no funcionará según lo previsto.  Para utilizar las opciones de disponibilidad se requiere un grupo de seguridad de red, y estamos creando intencionadamente la máquina virtual sin un grupo de seguridad de red.
     1. **Imagen**:  en el menú desplegable, seleccione **Windows 10 Pro, Versión 20H2: Generación 1**.
-    1. **Tamaño**:  seleccione** Ver todos los tamaños** en el menú desplegable, seleccione **B2** y luego presione **Seleccionar** en la parte inferior de la página.
+    1. **Tamaño**:  seleccione **Ver todos los tamaños** en el menú desplegable, seleccione **B2** y luego presione **Seleccionar** en la parte inferior de la página.
     1. **Nombre de usuario**:  escriba **UsuarioAzure**.
     1. **Contraseña**:  escriba **SC900AzureLabs**.
     1. **Puertos de entrada públicos**:  puede dejar la configuración predeterminada (no importa lo que seleccione aquí, ya que la configuración de red reemplazará lo que haya hecho).
@@ -71,7 +71,7 @@ Cree un grupo de seguridad de red, pero no asigne la interfaz de red de la máqu
     1. Grupo de recursos:  **LabsSC900-RG.**
     1. Nombre:  **NSG-SC900.**
     1. Región:  deje el valor predeterminado **Este de EE. UU. (EE. UU)**.
-    1. Seleccione **Revisar y crear **y, luego, **Crear**.
+    1. Seleccione **Revisar y crear** y, luego, **Crear**.
 
 1. Cuando se complete la implementación, seleccione **Ir al recurso** y asegúrese de que todo está configurado correctamente.  Debería haber 3 reglas de entrada y 3 reglas de salida predeterminadas, y no debería haber subredes ni interfaces asociadas al grupo de seguridad de red.  Vuelva a la página **Inicio** de Azure Portal.  
 

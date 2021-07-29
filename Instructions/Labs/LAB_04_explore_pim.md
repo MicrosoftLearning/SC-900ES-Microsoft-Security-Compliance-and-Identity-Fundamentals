@@ -50,7 +50,7 @@ En este laboratorio, explorará algunas de las funcionalidades básicas de Privi
 
 4. Ahora está en la ventana Inicio rápido de Privileged Identity Management.  Seleccione **Administrar Acceso**.
 
-5. Ahora está en la página Roles de Contoso.  En la barra de búsqueda de la parte superior de la página, escriba **usuario**.  En los resultados de la búsqueda, seleccione ** Administrador de usuarios**.
+5. Ahora está en la página Roles de Contoso.  En la barra de búsqueda de la parte superior de la página, escriba **usuario**.  En los resultados de la búsqueda, seleccione **Administrador de usuarios**.
 
 6. En la parte superior de la página, seleccione **+ Asignaciones**.
 

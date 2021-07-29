@@ -1,7 +1,7 @@
 ﻿---
 lab:
-    title: 'Explorar la administración de riesgos internos en Microsoft 365'.
-    module: 'Módulo 4, lección 3: Describir las funcionalidades de las soluciones de cumplimiento de Microsoft. Describir las funcionalidades de riesgos internos de Microsoft 365'.
+    title: 'Explorar la administración de riesgos internos en Microsoft 365'
+    module: 'Módulo 4, lección 3: Describir las funcionalidades de las soluciones de cumplimiento de Microsoft. Describir las funcionalidades de riesgos internos de Microsoft 365'
 ---
 
 

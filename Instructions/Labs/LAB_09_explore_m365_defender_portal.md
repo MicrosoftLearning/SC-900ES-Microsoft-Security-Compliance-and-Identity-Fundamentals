@@ -1,7 +1,7 @@
 ﻿---
 lab:
-    title: 'Explorar el portal de Microsoft 365 Defender'.
-    module: 'Módulo 3, lección 5: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir las funcionalidades de administración de seguridad de Microsoft 365'.
+    title: 'Explorar el portal de Microsoft 365 Defender'
+    module: 'Módulo 3, lección 5: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir las funcionalidades de administración de seguridad de Microsoft 365'
 ---
 
 

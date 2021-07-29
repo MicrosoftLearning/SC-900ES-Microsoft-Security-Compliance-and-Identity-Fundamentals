@@ -1,7 +1,7 @@
 ﻿---
 Demo:
-    title: 'Acceso condicional de Azure Active Directory'.
-    module: 'Módulo 2, lección 3: Describir las funcionalidades de las soluciones de administración de identidades y acceso de Microsoft: Explorar las funcionalidades de administración de acceso de Azure AD'.
+    title: 'Acceso condicional de Azure Active Directory'
+    module: 'Módulo 2, lección 3: Describir las funcionalidades de las soluciones de administración de identidades y acceso de Microsoft: Explorar las funcionalidades de administración de acceso de Azure AD'
 ---
 
 

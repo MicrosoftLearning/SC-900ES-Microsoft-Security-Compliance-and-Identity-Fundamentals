@@ -18,7 +18,7 @@ En esta demostración, recorrerá el proceso de configuración de una directiva 
 
 1. Ahora está en la vista de información general de la página Directiva. Observe la información disponible en el panel.
 
-1. Desde el panel de navegación de la izquierda, en Creación, seleccione **Asignaciones**.  Observará que ya existe una asignación de directiva, seleccione **Predeterminada de ASC**.  Observe el campo de descripción. Este es el conjunto predeterminado de directivas supervisadas por Azure Security Center. Se asignó automáticamente como parte de la incorporación a Security Center. La asignación predeterminada solo contiene directivas de auditoría. Para más información, visite https://aka.ms/ascpolicies.  Vuelva a la página de Asignaciones de directivas seleccionando la **X** en la esquina superior derecha de la página.
+1. Desde el panel de navegación de la izquierda, en Creación, seleccione **Asignaciones**.  Observará que ya existe una asignación de directiva, seleccione **Predeterminada de ASC**.  Observe el campo de descripción. Este es el conjunto predeterminado de directivas supervisadas por Azure Security Center. Se asignó automáticamente como parte de la incorporación a Security Center. La asignación predeterminada solo contiene directivas de auditoría. Para más información, visite https://aka.ms/ascpolicies-spa.  Vuelva a la página de Asignaciones de directivas seleccionando la **X** en la esquina superior derecha de la página.
 
 1. En la parte superior de la página, seleccione **Asignar directiva**.
 

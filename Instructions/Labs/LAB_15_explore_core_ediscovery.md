@@ -1,7 +1,7 @@
 ﻿---
 lab:
-    title: 'Explorar el flujo de trabajo de Core eDiscovery'.
-    module: 'Módulo 4, lección 4: Describir las funcionalidades de las soluciones de cumplimiento de Microsoft. Describir las funcionalidades eDiscovery y Auditoría de Microsoft 365'.
+    title: 'Explorar el flujo de trabajo de Core eDiscovery'
+    module: 'Módulo 4, lección 4: Describir las funcionalidades de las soluciones de cumplimiento de Microsoft. Describir las funcionalidades eDiscovery y Auditoría de Microsoft 365'
 ---
 
 

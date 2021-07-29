@@ -1,7 +1,7 @@
 ﻿---
 Demo:
-    title: 'Autoservicio de restablecimiento de contraseña de Azure Active Directory'.
-    module: 'Módulo 2, lección 2: Describir las funcionalidades de las soluciones de administración de identidades y acceso de Microsoft: Describir los distintos métodos de autenticación de Azure AD'.
+    title: 'Autoservicio de restablecimiento de contraseña de Azure Active Directory'
+    module: 'Módulo 2, lección 2: Describir las funcionalidades de las soluciones de administración de identidades y acceso de Microsoft: Describir los distintos métodos de autenticación de Azure AD'
 ---
 
 # Demo: Autoservicio de restablecimiento de contraseña de Azure Active Directory (SSPR)

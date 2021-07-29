@@ -1,7 +1,7 @@
 ﻿---
 lab:
     title: 'Explorar la administración de accesos en Azure AD con Conditional'
-    module: 'Módulo 2, lección 3: Describir las funcionalidades de las soluciones de administración de identidades y acceso de Microsoft: Explorar las funcionalidades de administración de acceso de Azure AD'.
+    module: 'Módulo 2, lección 3: Describir las funcionalidades de las soluciones de administración de identidades y acceso de Microsoft: Explorar las funcionalidades de administración de acceso de Azure AD'
 ---
 
 

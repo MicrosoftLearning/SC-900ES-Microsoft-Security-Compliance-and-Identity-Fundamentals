@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: 'Explorar Azure Security Center'.
+    title: 'Explorar Azure Security Center'
     module: 'Módulo 3, lección 2: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir las funcionalidades de administración de la seguridad de Azure'
 ---
 

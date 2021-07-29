@@ -1,6 +1,6 @@
 ﻿---
 Demo:
-    title: 'Microsoft Intune'.
+    title: 'Microsoft Intune'
     module: 'Módulo 3, lección 6: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir la seguridad de los puntos de conexión con Microsoft Intune'
 ---
 

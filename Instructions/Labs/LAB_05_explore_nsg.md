@@ -30,7 +30,7 @@ En este laboratorio. Explorará la función de los grupos de seguridad de red en
     1. Grupo de recursos:  seleccione **Crear nuevo**, en el campo Nombre, escriba **LabsSC900** y luego seleccione **Aceptar**.
     1. Nombre de máquina virtual:  escriba **SC900-WinVM**.
     1. Imagen:  en el menú desplegable, seleccione **Windows 10 Pro, Versión 20H2: Generación 1**.
-    1. Tamaño:  seleccione** Ver todos los tamaños** en el menú desplegable, seleccione **B2** y luego presione **Seleccionar** en la parte inferior de la página.
+    1. Tamaño:  seleccione **Ver todos los tamaños** en el menú desplegable, seleccione **B2** y luego presione **Seleccionar** en la parte inferior de la página.
     1. Nombre de usuario:  escriba **UsuarioAzure**.
     1. Contraseña:  escriba **SC900AzureLabs**.
     1. Puertos de entrada públicos:  seleccione **Ninguno**.
@@ -70,7 +70,7 @@ En este laboratorio. Explorará la función de los grupos de seguridad de red en
     1. Grupo de recursos:  **LabsSC900.**
     1. Nombre:  **NSG-SC900.**
     1. Región:  deje el valor predeterminado **Este de EE. UU. (EE. UU)**.
-    1. Seleccione **Revisar y crear **y, luego, **Crear**.
+    1. Seleccione **Revisar y crear** y, luego, **Crear**.
 1. Una vez finalizada la implementación, seleccione **Ir al recurso**.
 1. Observe las reglas de entrada y salida predeterminadas del grupo.  Aunque se creó el NSG y hay reglas predeterminadas para filtrar el tráfico, no se ha asociado ninguna interfaz al NSG, por lo que la VM aún será vulnerable con todos sus puertos expuestos a la Internet pública.
 1. En el panel de navegación izquierdo de la página NSG-SC900, debajo de Configuración, seleccione **Interfaces de red**.

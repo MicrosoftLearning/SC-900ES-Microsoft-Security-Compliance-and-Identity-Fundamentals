@@ -1,11 +1,11 @@
 ﻿---
 lab:
-    title: 'Explorar el Centro de cumplimiento de Microsoft 365 y el Administrador de cumplimiento'.
-    module: 'Módulo 4, lección 1: Describir las funcionalidades de las soluciones de cumplimiento de Microsoft. Describir las funcionalidades de administración de cumplimiento en Microsoft'.
+    title: 'Explorar el Centro de cumplimiento de Microsoft 365 y el Administrador de cumplimiento'
+    module: 'Módulo 4, lección 1: Describir las funcionalidades de las soluciones de cumplimiento de Microsoft. Describir las funcionalidades de administración de cumplimiento en Microsoft'
 ---
 
 
-# Laboratorio: 'Explorar el Centro de cumplimiento de Microsoft 365 y el Administrador de cumplimiento'
+# Laboratorio: Explorar el Centro de cumplimiento de Microsoft 365 y el Administrador de cumplimiento
 
 ## Escenario del laboratorio
 En este laboratorio explorará la página principal del Centro de cumplimiento de Microsoft 365 y descubrirá las diferentes formas en las que las funcionalidades del Administrador de cumplimento pueden ayudar a las organizaciones a mejorar su posición de cumplimiento.

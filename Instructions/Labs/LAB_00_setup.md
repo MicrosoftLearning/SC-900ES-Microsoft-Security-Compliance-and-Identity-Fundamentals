@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Configuración'
 ---

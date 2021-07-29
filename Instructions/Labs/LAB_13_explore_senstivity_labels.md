@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar las etiquetas de confidencialidad en Microsoft 365'
     module: 'Módulo 4, lección 2: Describir las funcionalidades de las soluciones de cumplimiento de Microsoft. Describir las funcionalidades de gobierno y protección de la información de Microsoft 365'

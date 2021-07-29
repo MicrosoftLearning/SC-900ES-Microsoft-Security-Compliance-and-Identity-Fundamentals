@@ -1,4 +1,4 @@
-﻿---
+---
 Pre-Demo Setup:
     title: 'Configuración de la demo'
 ---

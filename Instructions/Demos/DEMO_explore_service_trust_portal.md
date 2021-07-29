@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Portal de confianza de servicios'
     module: 'Módulo 1, lección 2: Describir los principios de seguridad y cumplimiento de Microsoft: Explorar el Portal de confianza de servicios'

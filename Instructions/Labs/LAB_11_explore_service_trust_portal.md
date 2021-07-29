@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar el Portal de confianza de servicios'
     module: 'Módulo 4, lección 1: Describir las funcionalidades de las soluciones de cumplimiento de Microsoft. Describir las funcionalidades de administración de cumplimiento en Microsoft'

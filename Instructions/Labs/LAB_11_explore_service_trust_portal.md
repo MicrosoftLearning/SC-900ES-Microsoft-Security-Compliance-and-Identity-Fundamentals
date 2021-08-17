@@ -17,7 +17,7 @@ En este laboratorio, explorará las características y el contenido disponible e
 
 1. Abra Microsoft Edge.
 
-1. En la barra de direcciones, escriba **https://aks.ms/STP**.  Esto le llevará a la página de aterrizaje del Portal de confianza de servicios. El Portal de confianza de servicios contiene detalles sobre la implementación de controles y procesos de Microsoft que protegen nuestros servicios en la nube y los datos de los clientes que contienen. 
+1. En la barra de direcciones, escriba **https://aka.ms/STP**.  Esto le llevará a la página de aterrizaje del Portal de confianza de servicios. El Portal de confianza de servicios contiene detalles sobre la implementación de controles y procesos de Microsoft que protegen nuestros servicios en la nube y los datos de los clientes que contienen. 
 
 1. Para acceder a algunos de los recursos del Portal de confianza de servicios, debe iniciar sesión como usuario autenticado con su cuenta de Servicios en la nube de Microsoft y revisar y aceptar las condiciones del acuerdo de confidencialidad de Microsoft para materiales de cumplimiento. En la esquina superior derecha de la página de aterrizaje del Portal de confianza de servicios verá la opción Iniciar sesión. **Inicie sesión** con sus credenciales de administrador y, si se le pide, seleccione **Acepto** para aceptar el acuerdo de confidencialidad de Microsoft para materiales de cumplimiento.
 

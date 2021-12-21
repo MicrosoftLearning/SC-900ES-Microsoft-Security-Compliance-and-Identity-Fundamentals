@@ -1,16 +1,16 @@
 ---
 Demo:
-    title: 'Microsoft Cloud App Security'
+    title: 'Microsoft Defender for Cloud Apps'
     module: 'Módulo 3, lección 4: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir la protección contra amenazas con Microsoft 365 Defender'
 ---
 
 
-# Demo: Microsoft Cloud App Security
+# Demo: Microsoft Defender for Cloud Apps
 
 ### Escenario de la demo
-En esta demo, hará una demostración de las funcionalidades de Microsoft Cloud App Security.  Ayudará al estudiante a realizar un recorrido por la información que se muestra en el panel de Cloud Discovery y las funcionalidades disponibles para investigar los resultados y controlar el impacto en su organización a través de directivas.  Nota:  Las organizaciones deben disponer de una licencia para usar Microsoft Cloud App Security, que es un servicio de suscripción basado en usuarios.  
+En esta demo, verá las funcionalidades de Microsoft Defender for Cloud Apps.  Ayudará al estudiante a realizar un recorrido por la información que se muestra en el panel de Cloud Discovery y las funcionalidades disponibles para investigar los resultados y controlar el impacto en su organización a través de directivas.  Nota:  Una organización debe tener una licencia para utilizar Microsoft Defender for Cloud Apps, que es un servicio de suscripción basado en el usuario.  
 
-#### Demo, parte 1: Explorar Cloud Discovery
+#### demo, parte 1: Explorar Cloud Discovery
 
 1. Abra Microsoft Edge. En la barra de direcciones, escriba **admin.microsoft.com**.  Con esto debería haber iniciado sesión como administrador.  Si no lo ha hecho, inicie sesión con sus credenciales de administrador.
 
@@ -22,9 +22,9 @@ En esta demo, hará una demostración de las funcionalidades de Microsoft Cloud
 
 1. En la parte inferior del panel de navegación izquierdo de la página de Microsoft 365 Defender, seleccione **Más recursos**.
 
-1. En la tarjeta **Microsoft Cloud App Security**, seleccione **Abrir**.  Se abrirá una nueva página del explorador con el panel de Cloud App Security.  Observe las tarjetas de información que hay disponibles.  Es posible que las tarjetas no muestren información, dado que se trata del ambiente de una cuenta empresarial con un laboratorio preconfigurado que no se ha utilizado de forma activa.  
+1. En la tarjeta **Microsoft Defender for Cloud Apps** seleccione **Abrir**.  Se abrirá una nueva página del explorador con el panel de Cloud App Security.  Observe las tarjetas de información que hay disponibles.  Es posible que las tarjetas no muestren información, dado que se trata del ambiente de una cuenta empresarial con un laboratorio preconfigurado que no se ha utilizado de forma activa.  
 
-1. En el panel de navegación izquierdo, seleccione **Descubrir** y luego seleccione **panel de Cloud Discovery** en el menú desplegable.  El panel incluye una descripción general de las aplicaciones detectadas, las categorías de aplicaciones, los niveles de riesgo, y mucho más.  
+1. En el panel de navegación izquierdo, seleccione **Descubrir** y luego seleccione **panel de Cloud Discovery** en el menú desplegable.  El panel incluye información general de las aplicaciones detectadas, las categorías de aplicaciones, los niveles de riesgo, y mucho más.  
 
     1. En la parte superior de la página de Cloud Discovery, seleccione la pestaña **Aplicaciones detectadas**  La ventana Aplicaciones detectadas ofrece una vista más detallada de las aplicaciones detectadas, incluyendo la puntuación de riesgo, el tráfico, el número de usuarios, y mucho más.
 
@@ -63,7 +63,7 @@ En esta demo, hará una demostración de las funcionalidades de Microsoft Cloud
 1. Deje esta página abierta, porque la utilizará en la siguiente tarea.
 
 
-#### Demo, parte 3: En esta tarea, explorará las páginas Directivas y Alertas en Microsoft Cloud App Security
+#### Demo, parte 3: En esta tarea explorará las páginas de directivas y alertas de Microsoft Defender for Cloud Apps.
 
 1. En el panel de navegación izquierdo, debajo de la opción Control, seleccione **Directivas**.  Las directivas que aparecen en la lista dan información sobre el número de alertas generadas por la directiva, la gravedad, etc. Si selecciona unos de los elementos de línea, obtendrá información más detallada sobre la directiva. Seleccione un elemento de la lista., p. ej., **Inicio de sesión de riesgo**.  
 
@@ -72,4 +72,4 @@ En esta demo, hará una demostración de las funcionalidades de Microsoft Cloud
 1. Cierre la ventana del explorador.
 
 #### Revisión
-En esta demo, ha realizado una demostración de las funcionalidades de Microsoft Cloud App Security.  Ha hecho un recorrido por la información que se muestra en el panel de Cloud Discovery y las funcionalidades disponibles para investigar los resultados y controlar el impacto en su organización a través de directivas.
+En esta demo, verá las funcionalidades de Microsoft Defender for Cloud Apps.  Ha hecho un recorrido por la información que se muestra en el panel de Cloud Discovery y las funcionalidades disponibles para investigar los resultados y controlar el impacto en su organización a través de directivas.

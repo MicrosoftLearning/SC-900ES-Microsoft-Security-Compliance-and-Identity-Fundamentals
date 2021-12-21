@@ -23,15 +23,15 @@ Azure Policy ayuda a aplicar los estándares de la organización y a evaluar el
     1. Escriba la contraseña de administrador que debería haberle proporcionado su proveedor de servicios de hospedaje de laboratorios. Seleccione **Iniciar sesión**.
     1. Cuando aparezca un mensaje para preguntarle si quiere mantener la sesión iniciada, seleccione **Sí**.
 
-1. Ahora se encuentra en Azure Portal.  Debajo de las palabras Servicios de Azure, seleccione **Directiva**. Esto abrirá la página principal de Directiva, que muestra una vista de panel.  El ámbito para el cual está viendo la información aplica el Pase para Azure que está utilizando como parte de este laboratorio.   Observe la información disponible en el panel.
+1. Ahora se encuentra en Azure Portal.  En el cuadro de búsqueda, en la barra azul de la parte superior de la página junto a donde pone Microsoft Azure, escriba **directiva** y seleccione **Directiva** en los resultados de la búsqueda. Esto abrirá la página principal de Directiva, que muestra una vista de panel.  El ámbito para el cual está viendo la información aplica el Pase para Azure que está utilizando como parte de este laboratorio.   Observe la información disponible en el panel.
 
-1. Hay un elemento llamado Predeterminada de ASC (Azure Security Center) cuyo ámbito es Pase para Azure: Patrocinio.   Seleccione **Predeterminada de ASC**.
+1. Hay un elemento llamado Predeterminada de ASC (ASC se refiere a Azure Security Center que ahora se llama Microsoft Defender for Cloud) cuyo ámbito es Pase para Azure: Patrocinio.   Seleccione **Predeterminada de ASC**.
 
-1. En la parte superior de la página, debajo de Essentials, puede ver el nombre, la descripción y otro tipo de información esencial.  Lea la descripción (mantenga el puntero del ratón sobre la descripción).  
+1. En la parte superior de la página, debajo de Essentials, puede ver el nombre, la descripción y otro tipo de información esencial.  Lea la descripción (mantenga el puntero del ratón sobre la descripción). NOTA: El campo de descripción hace referencia a Azure Security Center, que se renombró como Microsoft Defender for Cloud.
 
-1. Observe que la información que muestra el panel se actualiza para reflejar el elemento seleccionado, la definición de iniciativa predeterminada de ASC.  Recuerde que una definición de iniciativa es una colección de definiciones de directiva personalizadas para alcanzar un único objetivo general.  En este caso, las directivas se relacionan con el estado de cumplimiento de Azure Security Center.  La información se puede ver por grupo, directivas, recursos no compatibles o eventos.
+1. Observe que la información que muestra el panel se actualiza para reflejar el elemento seleccionado, la definición de iniciativa predeterminada de ASC.  Recuerde que una definición de iniciativa es una colección de definiciones de directiva personalizadas para alcanzar un único objetivo general. La información se puede ver por grupo, directivas, recursos no compatibles o eventos.
 
-1. Vuelva a la página principal de Directiva. Para ello, seleccione **Directiva** en la esquina superior izquierda de la pantalla, encima de las palabras Predeterminada de ASC.
+1. Para salir de la página de ASC y volver a la página principal de directivas, seleccione la **X** de la esquina superior derecha de la ventana.
 
 1. En el panel de navegación izquierdo, seleccione **Introducción**.  Aquí puede ver las diferentes opciones, incluida la opción de examinar las directivas integradas y asignar directivas a gran escala; puede crear definiciones de directiva personalizadas para su ambiente, recomendar asignaciones de directiva, y mucho más.
 

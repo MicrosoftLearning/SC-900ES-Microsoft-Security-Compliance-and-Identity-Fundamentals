@@ -33,27 +33,27 @@ En este laboratorio explorará la página principal del Centro de cumplimiento d
 1. Para agregar tarjetas, seleccione **+ Agregar tarjetas**.  Se abre la ventana Agregar tarjetas a la página principal.  Sitúe el cursor del ratón sobre la tarjeta del Catálogo de soluciones que aparece en esta ventana y arrástrela a la ubicación de su pantalla principal en la que desea situarla.
 1. En el panel de navegación izquierdo de la página principal del Centro de cumplimiento de Microsoft 365, observe que debajo de Soluciones solo aparece el Catálogo.  En el panel de navegación izquierdo, seleccione **[...Mostrar todo]**.  Observe que todas las soluciones adicionales aparecen debajo de la sección Soluciones.  
 1. Seleccione **Mostrar menos** para ocultarlas.
-1. Como administrador de cumplimiento, es posible que haya un conjunto de soluciones que administre para su organización y que desee mostrar siempre en la lista del panel de navegación.  Para personalizar sus preferencias, seleccione **Personalizar la navegación**.  
-1. En la ventana Personalizar el panel de navegación, seleccione **Auditoría**, **Prevención de pérdida de datos** y **eDiscovery**.  Seleccione **Guardar** en la parte inferior de la ventana.  Observe que la sección Soluciones del panel de navegación se ha actualizado.
+1. Como administrador de cumplimiento, puede haber un conjunto de soluciones que administre para nuestra organización y, como tal, puede querer tener solo esas soluciones listadas en el panel de navegación que ve. Para personalizar sus preferencias, seleccione **Personalizar la navegación**.  
+1. En la ventana etiquetada como Personalizar el panel de navegación, puede seleccionar los elementos que desea que aparezcan en el panel de navegación y deseleccionar los elementos que no desea ver. Para el propósito de estos laboratorios, mantenga todos los elementos seleccionados y pulse **Guardar** en la parte inferior de la ventana.  
 1. Deje abierta la pestaña del explorador.
 
 #### Tarea 2: Obtenga información sobre la postura de cumplimiento de su organización mediante el Administrador de cumplimiento
 
 1. En el panel de navegación izquierdo del Centro de cumplimiento de Microsoft 365, seleccione **Administrador de cumplimiento**.  Como alternativa, puede seleccionar Administrador de cumplimiento desde la barra de título de la tarjeta Administrador de cumplimiento.
 
-1. En la parte superior de la página Administrador de cumplimiento, asegúrese de que la opción **Información general** está seleccionada (subrayada). Desplácese hacia abajo para ver toda la información disponible en la página.  Entre la información de esta página se incluye su puntuación de cumplimiento, la cual se muestra en forma de porcentaje y en base a los puntos y los puntos administrados por Microsoft que ha obtenido.   Verá las acciones de mejora clave, las soluciones que afectan a su puntuación y un desglose de la puntuación de cumplimiento por categorías o evaluaciones.
+1. En la parte superior de la página Administrador de cumplimiento, asegúrese de que la opción **Información general** está seleccionada (subrayada). Desplácese hacia abajo para ver toda la información disponible en la página.  La información de esta página incluye la puntuación de cumplimiento, los puntos conseguidos y los puntos administrados por Microsoft.   Verá las acciones de mejora clave, las soluciones que afectan a su puntuación y un desglose de la puntuación de cumplimiento por categorías o evaluaciones.
 
-1. En la parte superior de la página Información general, seleccione **Acciones de mejora**.  Son las acciones que pueden mejorar la puntuación de cumplimiento de la organización. Los puntos pueden tardar hasta 24 horas en actualizarse.  Observe los filtros disponibles.
+1. En la parte superior de la página Información general, seleccione **Acciones de mejora**.  Estas acciones pueden mejorar la puntuación de cumplimiento de la organización. Tenga en cuenta que, a medida que se realizan acciones de mejora, los puntos pueden tardar hasta 24 horas en actualizarse.  Observe los filtros disponibles.
 
 1. En la lista de acciones de mejora, seleccione **Habilitar el autoservicio de restablecimiento de contraseña**.  Cada acción de mejora tiene una sección de información general y una página de detalles desde la cual puede seleccionar su implementación, las pruebas, los estándares y los requisitos normativos relacionados, y documentos.
 
-1. Para salir de esta acción de mejora, seleccione la **X** de la esquina superior derecha de la pantalla.  También puede seleccionar Acciones de mejora en la ruta de navegación de la parte superior izquierda de la página.  Ahora ha vuelto a la página Acciones de mejora.
+1. Puede salir de esta acción de mejora si selecciona **Acciones de mejora** en la ruta de navegación de la parte superior izquierda de la página.  Ahora ha vuelto a la página Acciones de mejora.
 
 1. Seleccione **Soluciones** en la parte superior de la página. En esta página verá cómo influyen las soluciones en su puntuación y el margen de mejora de cada una.
 
 1. En la parte superior de la página, seleccione **Evaluaciones**. En esta página verá la línea base de protección de datos.  Se trata de la evaluación predeterminada que proporciona Microsoft en el Administrador de cumplimiento para la línea base de protección de datos de Microsoft 365.  Esta evaluación de la línea base incluye un conjunto de controles para las normativas y los estándares clave para la protección y el gobierno de datos general. El Administrador de cumplimiento resulta más útil a medida que crea y administra sus propias evaluaciones para satisfacer las necesidades particulares de su organización.
 
-1. Seleccione **Línea base de protección de datos**.  Observe la información disponible en la pestaña Progreso.  También puede ver el estado de los controles de esta evaluación, sus acciones de mejora y las acciones de Microsoft.  
+1. Seleccione **Línea base de protección de datos**.  Observe la información disponible en la pestaña Progreso.  También puede ver información sobre los Controles, las acciones de mejora y las acciones de Microsoft.  
 
 1. Desde la parte superior izquierda de la página, encima del texto que dice Evaluaciones (la ruta de navegación), seleccione **Evaluación** para volver a la página Evaluaciones.  
 

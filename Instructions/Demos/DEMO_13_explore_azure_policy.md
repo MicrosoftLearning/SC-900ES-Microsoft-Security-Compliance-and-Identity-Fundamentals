@@ -8,7 +8,7 @@ Demo:
 # Demo: Azure Policy
 
 ### Escenario de la demo
-En esta demostración, recorrerá el proceso de configuración de una directiva de Azure y el impacto de la misma.
+En esta demo, recorrerá el proceso de configuración de una directiva de Azure y el impacto de la misma.
 
 #### Demo, parte 1: Crear una directiva para exigir una etiqueta en un grupo de recursos (se muestran los pasos para crear una directiva a partir de una plantilla)
 
@@ -18,7 +18,7 @@ En esta demostración, recorrerá el proceso de configuración de una directiva 
 
 1. Ahora está en la vista de información general de la página Directiva. Observe la información disponible en el panel.
 
-1. Desde el panel de navegación de la izquierda, en Creación, seleccione **Asignaciones**.  Observará que ya existe una asignación de directiva, seleccione **Predeterminada de ASC**.  Observe el campo de descripción. Este es el conjunto predeterminado de directivas supervisadas por Azure Security Center. Se asignó automáticamente como parte de la incorporación a Security Center. La asignación predeterminada solo contiene directivas de auditoría. Para más información, visite https://aka.ms/ascpolicies-spa.  Vuelva a la página de Asignaciones de directivas seleccionando la **X** en la esquina superior derecha de la página.
+1. Desde el panel de navegación de la izquierda, en Creación, seleccione **Asignaciones**.  Observará que ya existe una asignación de directiva, seleccione **Predeterminada de ASC**.  Revise el campo de la descripción. NOTA: El campo de descripción hace referencia a Azure Security Center, que se renombró como Microsoft Defender for Cloud.  Vuelva a la página de Asignaciones de directivas al seleccionar la **X** en la esquina superior derecha de la página.
 
 1. En la parte superior de la página, seleccione **Asignar directiva**.
 
@@ -38,7 +38,7 @@ En esta demostración, recorrerá el proceso de configuración de una directiva 
 
 1. Revise la asignación de la directiva y luego seleccione Crear.  Si no ve inmediatamente la directiva, seleccione **Actualizar**. Nota: La directiva puede tardar hasta 30 minutos en surtir efecto.
 
-1. Puede salir de la página de Asignaciones de directivas seleccionando la **X** en la esquina superior derecha de la página.
+1. Puede salir de la página de Asignaciones de directivas al seleccionar la **X** en la esquina superior derecha de la página.
 
 1. Ahora se encuentra en la página principal de los servicios Azure.  Mantenga esta página abierta, la necesitará para la siguiente tarea.
 

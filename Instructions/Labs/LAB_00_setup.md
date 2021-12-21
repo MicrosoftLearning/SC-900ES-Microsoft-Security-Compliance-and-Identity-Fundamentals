@@ -47,8 +47,6 @@ En esta tarea de configuración, habilitará la funcionalidad Registro de audito
 
 1. En Centros de administración, seleccione **Cumplimiento**.  Se abrirá una nueva página del explorador con la página principal del Centro de cumplimiento de Microsoft 365.  
 
-1. En el panel de navegación izquierdo del Centro de cumplimiento de Microsoft 365, seleccione **Mostrar todo**.
-
 1. En el panel de navegación izquierdo, en Soluciones, seleccione **Auditoría**.  Nota: También se puede acceder a la funcionalidad de auditoría a través de la página principal de Microsoft 365 Defender (anteriormente denominada Centro de seguridad de Microsoft 365).
 
 1. Compruebe que la pestaña **Buscar** está seleccionada (subrayada).

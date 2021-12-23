@@ -27,15 +27,14 @@ En esta laboratorio explorará las funcionalidades de las etiquetas de confidenc
 
 1. En Centros de administración, seleccione **Cumplimiento**.  Se abrirá una nueva página del explorador con la página principal del Centro de cumplimiento de Microsoft 365.  
 
-1. En el panel de navegación izquierdo del Centro de cumplimiento de Microsoft 365, seleccione **Mostrar todo**.
-
 1. En el panel de navegación izquierdo, debajo de Soluciones, seleccione **Information Protection**.
 
-1. En el cuadro de información amarillo, indique que su organización no ha activado la capacidad de procesar el contenido de los archivos en línea de Office a los que se les ha aplicado etiquetas de confidencialidad cifradas y que se han almacenado en OneDrive y SharePoint.  Seleccione Activar ahora.  Una vez hecho esto, es posible que la configuración tarde unos minutos en propagarse por el sistema.
+1. Seleccione la pestaña **Etiquetas** en la parte superior de la página.
 
-1. Compruebe que la pestaña **Etiquetas** esté seleccionada (subrayada) en la parte superior de la página.
+1. Aparecerá un cuadro de información amarillo que indica: "Su organización no ha activado la capacidad de procesar el contenido de los archivos en línea de Office que tienen aplicadas etiquetas de sensibilidad encriptadas y están almacenados en OneDrive y SharePoint...".  Seleccione Activar ahora.  Una vez hecho esto, es posible que la configuración tarde unos minutos en propagarse por el sistema.
 
-1. Observe que ya hay tres etiquetas creadas en el centro de la página.  Seleccione **Finanzas: Confidencial**.  Se abrirá una ventana que proporciona información sobre esta etiqueta.  Observe que esta etiqueta está configurada para admitir tanto el cifrado como el marcado de contenido.  Seleccione Modificar etiqueta en la parte superior de la página para ver algunas de las opciones de configuración básicas.
+
+1. En el centro de la página hay etiquetas ya creadas.  Seleccione **Finanzas: Confidencial**.  Se abrirá una ventana que proporciona información sobre esta etiqueta.  Observe que esta etiqueta está configurada para admitir tanto el cifrado como el marcado de contenido.  Seleccione Modificar etiqueta en la parte superior de la página para ver algunas de las opciones de configuración básicas.
 
 1. El primer paso para completar la configuración es dar un nombre y una descripción a su etiqueta.  No haga ningún cambio.  Seleccione **Siguiente** en la parte inferior de la página.
 
@@ -45,7 +44,7 @@ En esta laboratorio explorará las funcionalidades de las etiquetas de confidenc
 
 1. La ventana Cifrado muestra la configuración de las opciones de cifrado.  No haga ningún cambio.  Revise el cuadro de información debajo de Configuración de cifrado y revise los valores de la configuración. Observe que el acceso del usuario al contenido está configurado en No expira nunca.  También puede asignar permisos a usuarios y grupos específicos para que solo ellos puedan interactuar con el contenido al que se ha aplicado esta etiqueta.  Debajo de Usuarios y grupos, la cuenta empresarial está definida para que todos los usuarios de su cuenta puedan ver el contenido etiquetado con esta etiqueta.  El equipo de Finanzas también aparece en la lista, y tiene permisos de coautoría.  No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
 
-1. En la página Marcados de contenido, tome nota del cuadro de información de la parte superior de la página.  Los marcados de contenido se aplicarán a los documentos, pero a los correos solo se les aplicarán los encabezados y los pies de página. En otras palabras, las marcas de agua no se aplicarán a los correos.  El marcado de contenido asociado a esta etiqueta es una marca de agua.  No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
+1. En la página Marcados de contenido, tome nota del cuadro de información de la parte superior de la página.  Los marcados de contenido se aplicarán a los documentos, pero a los correos solo se les aplicarán los encabezados y los pies de página. En otras palabras, las marcas de agua no se aplicarán a los correos.  La marca de contenido asociada a esta etiqueta es una marca de agua que dice: EXTREMADAMENTE CONFIDENCIAL.  No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
 
 1. Ahora se encuentra en la ventana Etiquetado automático de archivos y correos.  Lea la descripción del etiquetado automático en la parte superior de la página y el cuadro de información que aparece debajo.  Tome nota también de que esta etiqueta está configurada en Etiquetado automático para determinadas condiciones específicas. No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
 
@@ -64,6 +63,9 @@ En esta laboratorio explorará las funcionalidades de las etiquetas de confidenc
 1. Lea la descripción que aparece debajo de "Publicar para usuarios y grupos".  Observe que esta etiqueta está disponible para todos los usuarios.  No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
 
 1. Revise la configuración de la directiva.  No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
+    1. Lea la descripción que aparece debajo de "Aplicar una etiqueta predeterminada a los documentos".  Fíjese que no hay ninguna etiqueta predeterminada. No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
+    1. Lea la descripción que aparece debajo de "Aplicar una etiqueta predeterminada a los correos electrónicos".  Seleccione la flecha desplegable en el cuadro de entrada para ver las opciones disponibles. No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
+    1. Lea la descripción que aparece debajo de "Aplicar una etiqueta predeterminada al contenido de Power BI".  Fíjese que no hay ninguna etiqueta predeterminada. No cambie la configuración.  Seleccione **Siguiente** en la parte inferior de la página.
 
 1. La última opción de la configuración le permite dar un nombre a su directiva.  No cambie la configuración.  Seleccione **Cancelar** en la parte inferior de la página para salir de la configuración de la directiva y vuelva a la página Information protection.
 
@@ -76,19 +78,22 @@ En esta laboratorio explorará las funcionalidades de las etiquetas de confidenc
 
 #### Tarea 2:  En esta tarea, se familiarizará con el proceso de aplicar una etiqueta desde la perspectiva del usuario (en este caso el usuario es el administrador) y ver el marcado de contenido generado por la etiqueta
 
-1. En la página principal del Centro de cumplimiento de Microsoft 365, seleccione el **icono del iniciador de aplicaciones** junto a las palabras Contoso Electronics. **Haga clic con el botón derecho en el icono de Word** y luego seleccione **Abrir en una nueva pestaña**.  
+1. En primer lugar, asegúrese de que tiene configurado Office en su máquina virtual (VM) de laboratorio.  Para ello, seleccione la pestaña del **centro de administración de Microsoft 365** que está abierta el navegador.  Si ha cerrado la pestaña, abra una nueva pestaña del navegador y escriba **admin.microsoft.com**.
+    1. En el panel de navegación de la izquierda, seleccione **Facturación** para ver todas las opciones y luego, seleccione **Sus productos**.
+    1. En la página Sus productos, seleccione **Prueba de Microsoft 365 E5**
+    1. En la página de prueba de Microsoft 365 E5, seleccione **Descargar e instalar el software** y siga las instrucciones de la página.
 
-1. Seleccione **+ Nuevo documento en blanco** y luego escriba algo de texto en la página.  En la barra azul de la parte superior de la página, seleccione la flecha hacia abajo que hay junto a las palabras DocumentoXX: Guardado y, en el cuadro Nombre de archivo, escriba **Etiqueta:Prueba**.
+1. En la esquina inferior izquierda del laboratorio de VM, seleccione el icono de Windows, luego seleccione **Word** y luego seleccione **Documento en blanco**.  Esto abrirá un nuevo documento de Word con la versión de escritorio de Word.
 
 1. En la barra de menús superior, seleccione **Confidencialidad**. En el menú desplegable, seleccione **Finanzas: Confidencial**. 
 
-1. En la barra de menús de la parte superior, seleccione **Vista** y luego **Vista de lectura**.
+1. Observe que el documento incluye la marca de agua.  La marca de agua aparecerá en un texto pequeño de color gris claro que se mostrará verticalmente en la página. 
 
-1. Observe que el documento incluye la marca de agua.  
+1. Guarde el archivo de Word.
 
 1. Cierre las pestañas de Microsoft Word que hay abiertas en su explorador para salir de Word.
 
-#### Tarea 3 (opcional): Además del marcado de contenido, se ha configurado el cifrado en las opciones de configuración de la protección de etiquetas. Debido a los permisos que se han configurado con esta etiqueta, los miembros del grupo Finanzas pueden trabajar en coautoría en los documentos a los que se les ha aplicado esta etiqueta, y los usuarios de la cuenta empresarial de Contoso pueden verlos (así como cualquier documento o correo al que se le haya aplicado la etiqueta).  En esta tarea enviará este documento a una dirección de correo electrónico a la que tenga acceso (p. ej., una dirección de correo electrónico personal) y que no forme parte del dominio WWLxZZZZ.OnMicrosoft.com, y verá lo que ocurre cuando intenta abrir los datos adjuntos  
+#### Tarea 3 (opcional): Además del marcado de contenido, se ha configurado el cifrado en las opciones de configuración de la protección de etiquetas. Según los permisos configurados con esta etiqueta, los miembros del grupo financiero pueden ser coautores de documentos con esta etiqueta aplicada y los usuarios del inquilino de Contoso pueden verlos.  En esta tarea enviará este documento a una dirección de correo electrónico a la que tenga acceso (p. ej., una dirección de correo electrónico personal) y que no forme parte del dominio WWLxZZZZ.OnMicrosoft.com, y verá lo que ocurre cuando intenta abrir los datos adjuntos.  
 
 1. En la página principal del Centro de cumplimiento de Microsoft 365, seleccione el **icono del iniciador de aplicaciones** que aparece junto a las palabras Contoso Electronics. **Haga clic con el botón derecho en el icono de Outlook** y seleccione **Abrir en una nueva pestaña**.
 
@@ -100,7 +105,7 @@ En esta laboratorio explorará las funcionalidades de las etiquetas de confidenc
 
 1. Seleccione el documento que ha creado y al que ha aplicado la etiqueta **Etiqueta:Prueba** en la lista que se muestra. Seleccione **Siguiente** y **Adjuntar como una copia**.  Presione **Enviar**.
 
-1. Compruebe el correo electrónico al que ha enviado el documento.  Tenga en cuenta que es posible que el correo sea dirigido a su carpeta de correo no deseado.  Cuando intente abrir el archivo de Word adjunto, verá una notificación informándole de que no tiene permiso para abrir el documento.
+1. Utilice el navegador web de su VM de laboratorio para iniciar sesión en la cuenta de correo electrónico a la que envió el documento.  Tenga en cuenta que es posible que el correo se dirija a su carpeta de correo no deseado.  Cuando intente abrir el archivo de Word adjunto, verá una notificación informándole de que no tiene permiso para abrir el documento.
 
 1. Cierre las pestañas abiertas del explorador.
 

@@ -1,4 +1,4 @@
-﻿# SC-900: Fundamentos de seguridad, cumplimiento e identidad de Microsoft
+# SC-900: Fundamentos de seguridad, cumplimiento e identidad de Microsoft
 
 Este repositorio incluye scripts de demostración e instrucciones de laboratorio para **SC-900T00: Fundamentos de seguridad, cumplimiento e identidad de Microsoft**.  El uso de los scripts de demostración y los laboratorios presupone el acceso al inquilino WWL M365 Enterprise 2019 SPE_E5 preconfigurado, disponible mediante un proveedor de servicios de hosting de laboratorio autorizado (ALH) y el uso de una suscripción a Azure mediante un pase para Azure.  El pase para Azure se solicita para garantizar que la suscripción a Azure se configura con las mismas credenciales que el inquilino de Microsoft 365 aportado por el ALH (es decir, el Pase para Azure se canjea con las mismas credenciales que el inquilino de Microsoft 365).  Esto permite una experiencia más fluida al moverse entre Microsoft 365 y Azure.  Los scripts de demostración y las instrucciones de laboratorio pueden ejecutarse en el propio inquilino de Microsoft 365 y en la suscripción a Azure, pero no están garantizados, ya que algunas funciones pueden no estar habilitadas con la suscripción personal del usuario.
 
@@ -31,7 +31,7 @@ Las interfaces de usuario (IU) de Microsoft 365 y Azure se actualizan continuame
 
 ## ¿Cómo contribuyo?
 
-- Cualquier MCT puede enviar una solicitud de extracción al código o contenido en el reproductor de GitHub, Microsoft y el autor del curso seleccionará e incluirá los cambios de contenido y de laboratorio según sea necesario.
+- Cualquier MCT puede enviar una solicitud de extracción al código o contenido en el repositorio de GitHub, Microsoft y el autor del curso seleccionará e incluirá los cambios de contenido y de laboratorio según sea necesario.
 
 - Puede enviar errores, cambios, mejoras e ideas.  ¿Encontró una nueva característica de Azure antes que nosotros?  ¡Envíe una nueva demostración!
 

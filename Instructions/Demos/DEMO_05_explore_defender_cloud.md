@@ -18,7 +18,7 @@ En esta demo, recorrerá Microsoft Defender for Cloud y mostrará cómo se puede
 
 1. Fíjese en la información disponible en la página de información general de Microsoft Defender for Cloud.  Nota: Es posible que vea un cuadro de información azul en la parte superior de la página que indica que puede estar viendo información limitada.  No lo seleccione (puede tardar hasta 15 minutos en procesarse y no supone ninguna diferencia para esta demo).
 
-1. La información en la parte superior de la página incluye el número de suscripciones de Azure, el número de recursos evaluados, el número de recomendaciones activas y cualquier alerta de seguridad.  En el cuerpo principal de la página hay tarjetas que representan la Puntuación de seguridad, cumplimiento normativo, información, Azure Defender, etc.  
+1. La información en la parte superior de la página incluye el número de suscripciones de Azure, el número de recursos evaluados, el número de recomendaciones activas y cualquier alerta de seguridad.  En el cuerpo principal de la página hay tarjetas que representan la Puntuación de seguridad, cumplimiento normativo, información, etc.  
 
 1. En la parte superior de la página, seleccione **Recursos evaluados**.  (Tenga en cuenta que esto equivale a haber seleccionado el Inventario en el panel de navegación izquierdo de la página de inicio de Microsoft Defender for Cloud).
     1. De esta forma irá a la página **Inventario**, que muestra su suscripción al pase para Azure.  Seleccione **Pase para Azure – Patrocinio**.
@@ -49,3 +49,4 @@ En esta demo, recorrerá Microsoft Defender for Cloud y mostrará cómo se puede
 ## Revisión
 
 En esta demo, ha recorrido Microsoft Defender for Cloud y ha visto cómo se puede utilizar la puntuación de seguridad de Azure para mejorar la posición de seguridad de una organización.
+

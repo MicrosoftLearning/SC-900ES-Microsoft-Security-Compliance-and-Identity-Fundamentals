@@ -25,13 +25,13 @@ En este laboratorio le guiaremos a través de los pasos necesarios para configur
 
 1. En el panel de navegación izquierdo del Centro de administración de Microsoft 365, seleccione **Mostrar todo**.
 
-1. Debajo de Centros de administración, seleccione **Seguridad**.  Se abrirá una nueva página del explorador con la página principal del portal de Microsoft 365 Defender.  
+1. En Centros de administración, seleccione **Cumplimiento**.  Se abrirá una nueva página del explorador con la página principal del Centro de cumplimiento de Microsoft 365.  
 
-1. En el panel de navegación izquierdo del portal de Microsoft 365 Defender, seleccione **Permisos y roles**.  Es posible que deba desplazarse hacia abajo para ver esta opción.
+1. En el panel de navegación izquierdo, seleccione **Permisos**. 
 
-1. En la página Permisos y roles, debajo de **Roles de correo electrónico y colaboración**, seleccione **Roles**.
+1. En la página Permisos y roles, en el Centro de cumplimiento, seleccione **Roles**.
 
-1. En la barra de búsqueda, escriba **eDiscovery** y luego seleccione el icono de búsqueda (la lupa).  Seleccione **Supervisor de eDiscovery**.
+1. En el campo de búsqueda, escriba **eDiscovery** y luego seleccione el icono de búsqueda (la lupa).  Seleccione **Supervisor de eDiscovery**.
 
 1. En la ventana que se abre, observe que hay dos subgrupos, Supervisor de eDiscovery y Administrador de eDiscovery.  Lea sus respectivas descripciones.  En este laboratorio, vamos a agregar miembros al subgrupo Administrador de eDiscovery. Seleccione **Editar** junto al Administrador de eDiscovery.  El procedimiento recomendado es asignar a los usuarios los privilegios mínimos necesarios para el rol.
 
@@ -45,15 +45,11 @@ En este laboratorio le guiaremos a través de los pasos necesarios para configur
 
 1. En la parte inferior de la ventana eDiscovery, seleccione **Cerrar**.
 
-1. Mantenga esta ventana del navegador abierta, ya que volverá a ella en una tarea posterior.
+1. Deje esta pestaña del explorador abierta, porque la utilizará en la siguiente tarea.
 
 #### Tarea 2:  En esta tarea, como administrador de eDiscovery (un administrador MOD es un administrador de eDiscovery), creará un caso para empezar a utilizar Core eDiscovery
 
-1. Abra la pestaña Centro de administración de Microsoft 365 en su explorador.
-
-1. En el panel de navegación izquierdo, debajo de Centros de administración, seleccione **Cumplimiento**.
-
-1. Ahora se encuentra en el Centro de cumplimiento de Microsoft 365. En el panel de navegación izquierdo, seleccione **Mostrar todo**.
+1. Debería seguir en la página de roles del Centro de cumplimiento. Si ha cerrado la pestaña del explorador de la tarea anterior, abra una nueva pestaña del explorador y escriba **compliance.microsoft.com**
 
 1. En el panel de navegación izquierdo, debajo de Soluciones, seleccione **eDiscovery** y luego **Core**.
 
@@ -61,7 +57,7 @@ En este laboratorio le guiaremos a través de los pasos necesarios para configur
 
 1. En la ventana Nuevo caso, escriba un nombre para el caso, **Caso de prueba SC900**, y luego seleccione **Guardar** en la parte inferior de la página.
 
-1. Ahora el caso debería aparecer en la lista. 
+1. Ahora el caso debería aparecer en la lista.
 
 1. Como creador del caso, y dado que tiene privilegios de administrador de eDiscovery, puede empezar a trabajar con él.  
 
@@ -77,7 +73,7 @@ En este laboratorio le guiaremos a través de los pasos necesarios para configur
 
 1. En el campo Nombre, escriba **Suspensión de prueba** y luego seleccione Siguiente.
 
-1. En la página Elegir ubicaciones, seleccione el conmutador de alternancia que hay junto a Correo electrónico de Exchange para configurar el estado en **Activado** y luego seleccione **Elija usuarios, grupos o equipos**.  En el cuadro de búsqueda, escriba **Adele** y luego presione Entrar en su teclado. En los resultados de búsqueda, seleccione **Adele Vance** y luego Elegir y **Listo**.
+1. En la página Elegir ubicaciones, seleccione el conmutador de alternancia que hay junto a los **buzones de Exchange** para configurar el estado en **Activado** y luego seleccione **Elegir usuarios, grupos o equipos**.  En el cuadro de búsqueda, escriba **Adele** y luego presione Entrar en su teclado. En los resultados de búsqueda, seleccione **Adele Vance** y luego Elegir y **Listo**.
 
 1. En la página Elegir ubicaciones, seleccione **Siguiente**.  Para ahorrar tiempo en el laboratorio, no se incluirá ninguna otra ubicación en esta suspensión.
 
@@ -97,13 +93,13 @@ En este laboratorio le guiaremos a través de los pasos necesarios para configur
 
 1. En el campo Nombre, escriba **Suspensión de prueba: Búsqueda de Ventas** y luego seleccione **Siguiente** en la parte inferior de la página.
 
-1. En la página Elegir ubicaciones, seleccione el conmutador de alternancia que hay junto a Correo electrónico de Exchange para configurar el estado en **Activado** y luego seleccione **Elija usuarios, grupos o equipos**.  En el cuadro de búsqueda, escriba **Adele** y luego presione Entrar en su teclado. En los resultados de búsqueda, seleccione **Adele Vance** y luego **Listo** y **Siguiente**.  No se incluirán más ubicaciones en esta búsqueda.
+1. En la página Elegir ubicaciones, seleccione el conmutador de alternancia que hay junto a los **buzones de Exchange** para configurar el estado en **Activado** y luego seleccione **Elegir usuarios, grupos o equipos**.  En el cuadro de búsqueda, escriba **Adele** y luego presione Entrar en su teclado. En los resultados de búsqueda, seleccione **Adele Vance** y luego **Listo** y **Siguiente**.  No se incluirán más ubicaciones en esta búsqueda.
 
 1. La página Condiciones de la consulta le permite crear una suspensión basada en palabras clave o en el cumplimiento de condiciones específicas. En el campo Palabras clave, escriba **Ventas** y seleccione **Siguiente**.
 
 1. Revise su configuración y seleccione **Enviar**. Es posible que tarde un minuto. Luego, seleccione **Listo**.  La búsqueda debería aparecer en la lista.  Si no aparece inmediatamente, seleccione **Actualizar**.
 
-1. En la ventana Búsquedas, seleccione la búsqueda que acaba de crear, **Suspensión de prueba: Búsqueda de Ventas**.  Se abre una ventana con la pestaña Resumen seleccionada.  Una vez que la búsqueda haya finalizado, el estado mostrará el mensaje correspondiente.  Verá la pestaña Estadísticas de búsqueda (si no ve esta pestaña, es posible que la búsqueda no haya finalizado todavía y que tarde unos minutos en hacerlo).  Seleccione la pestaña **Estadísticas de búsqueda** y seleccione el menú desplegable junto a la opción Contenido de la búsqueda.  También puede ver más información sobre las opciones Informe de condiciones y Ubicaciones principales.  
+1. En la ventana Búsquedas, seleccione la búsqueda que acaba de crear, **Suspensión de prueba: Búsqueda de Ventas**.  Se abre una ventana con la pestaña Resumen seleccionada.  Una vez que la búsqueda haya finalizado, el estado indicará que la búsqueda se ha completado.  Verá la pestaña Estadísticas de búsqueda (si no ve esta pestaña, es posible que la búsqueda no haya finalizado todavía y que tarde unos minutos en hacerlo).  Seleccione la pestaña **Estadísticas de búsqueda** y seleccione el menú desplegable junto a la opción Contenido de la búsqueda.  También puede ver más información sobre las opciones Informe de condiciones y Ubicaciones principales.  
 
 1. En la parte inferior de la página, seleccione **Acciones**.  Observe las opciones disponibles y luego seleccione **Exportar resultados**.
     

@@ -27,7 +27,7 @@ En este laboratorio, recorrerá Microsoft Defender for Cloud y aprenderá cómo 
     1. Para asegurarse de que tiene una visibilidad completa del inquilino, asígnese el rol necesario.  Seleccione **Administrador de seguridad** y luego **Obtener acceso** en la parte inferior de la página.
     1. Es probable que vea el mensaje "El grupo de administración raíz no existe".  Tal y como se indica en la descripción, el sistema creará el grupo por usted.  Este proceso puede tardar hasta 15 minutos en completarse (pero normalmente tarda menos).  Una vez concedido el acceso, seleccione **Microsoft Defender for Cloud** en la esquina superior izquierda de la página, encima de donde dice Obtener permisos y luego, actualice la página de información general de Microsoft Defender for Cloud.
 
-1. La información en la parte superior de la página incluye el número de suscripciones de Azure, el número de recursos evaluados, el número de recomendaciones activas y cualquier alerta de seguridad.  En el cuerpo principal de la página hay tarjetas que representan la Puntuación de seguridad, cumplimiento normativo, información, Azure Defender, etc.  
+1. La información en la parte superior de la página incluye el número de suscripciones de Azure, el número de recursos evaluados, el número de recomendaciones activas y cualquier alerta de seguridad.  En el cuerpo principal de la página hay tarjetas que representan la Puntuación de seguridad, cumplimiento normativo, información, etc.  
 
 1. En la parte superior de la página, seleccione **Recursos evaluados**.  (Tenga en cuenta que esto equivale a haber seleccionado el Inventario en el panel de navegación izquierdo de la página de inicio de Microsoft Defender for Cloud).
     1. De esta forma irá a la página **Inventario**, que muestra su suscripción al pase para Azure.  Seleccione **Pase para Azure – Patrocinio**.
@@ -74,3 +74,4 @@ En este laboratorio, recorrerá Microsoft Defender for Cloud y aprenderá cómo 
 
 #### Revisión
 En este laboratorio, recorrió Microsoft Defender for Cloud y aprendió cómo se puede utilizar la puntuación de seguridad de Azure para mejorar la posición de seguridad de su organización.
+

@@ -1,14 +1,14 @@
 ---
 lab:
-    title: 'Explorar Microsoft Defender for Cloud Apps'
+    title: 'Explorar Microsoft Defender for Cloud Apps'
     module: 'Módulo 3, lección 4: Describir las funcionalidades de las soluciones de seguridad de Microsoft. Describir la protección contra amenazas con Microsoft 365 Defender'
 ---
 
 
-# Laboratorio: Explorar Microsoft Defender for Cloud Apps
+# Laboratorio: Explorar Microsoft Defender for Cloud Apps
 
 ## Escenario del laboratorio
-En este laboratorio, explorará las funcionalidades de Microsoft Defender for Cloud Apps.  Realizará un recorrido por la información que se muestra en el panel de Cloud Discovery y las funcionalidades disponibles para investigar los resultados y controlar el impacto en su organización a través de directivas.  Nota:  Una organización debe tener una licencia para utilizar Microsoft Defender for Cloud Apps, que es un servicio de suscripción basado en el usuario. 
+En este laboratorio explorará las funcionalidades de Microsoft Defender for Cloud Apps.  Realizará un recorrido por la información que se muestra en el panel de Cloud Discovery y las funcionalidades disponibles para investigar los resultados y controlar el impacto en su organización a través de directivas.  Nota:  Las organizaciones deben disponer de una licencia para usar Microsoft Defender for Cloud Apps, que es un servicio de suscripción basado en usuarios. 
 
 **Tiempo estimado**: 15-20 minutos.
 
@@ -27,7 +27,7 @@ En este laboratorio, explorará las funcionalidades de Microsoft Defender for Cl
 
 1. En la parte inferior del panel de navegación izquierdo de la página de Microsoft 365 Defender, seleccione **Más recursos**.
 
-1. En la tarjeta **Microsoft Defender for Cloud Apps** seleccione **Abrir**.  Se abrirá una nueva página del explorador con el panel de Cloud App Security.  Observe las tarjetas de información que hay disponibles.  Es posible que las tarjetas no muestren información, dado que se trata del ambiente de una cuenta empresarial con un laboratorio preconfigurado que no se ha utilizado de forma activa.  
+1. En la tarjeta **Microsoft Defender for Cloud Apps**, seleccione **Abrir**.  Se abrirá una nueva página del explorador con el panel de Cloud App Security.  Observe las tarjetas de información que hay disponibles.  Es posible que las tarjetas no muestren información, dado que se trata del ambiente de una cuenta empresarial con un laboratorio preconfigurado que no se ha utilizado de forma activa.  
 
 1. En el panel de navegación izquierdo, seleccione **Descubrir** y luego seleccione **panel de Cloud Discovery** en el menú desplegable.  El panel incluye una descripción general de las aplicaciones detectadas, las categorías de aplicaciones, los niveles de riesgo, y mucho más.  
     1. En la parte superior de la página de Cloud Discovery, seleccione la pestaña **Aplicaciones detectadas**  La ventana Aplicaciones detectadas ofrece una vista más detallada de las aplicaciones detectadas, incluyendo la puntuación de riesgo, el tráfico, el número de usuarios, y mucho más.
@@ -63,7 +63,7 @@ En este laboratorio, explorará las funcionalidades de Microsoft Defender for Cl
 1. Deje esta página abierta, porque la utilizará en la siguiente tarea.
 
 
-#### Tarea 3: En esta tarea explorará las páginas de directivas y alertas de Microsoft Defender for Cloud Apps.
+#### Tarea 3: En esta tarea, explorará las páginas Directivas y Alertas en Microsoft Defender for Cloud Apps.
 
 1. En el panel de navegación de la izquierda, seleccione la flecha hacia abajo al lado de donde dice **Control** y luego seleccione **Directivas**.  Las directivas que aparecen en la lista proporcionan información sobre el número de alertas generadas por la directiva, la gravedad, etc. Si selecciona cualquier elemento de línea, como **Inicio de sesión de riesgo**, podrá editar la directiva. Seleccione **Cancelar** en la parte inferior de la página. 
 
@@ -72,4 +72,4 @@ En este laboratorio, explorará las funcionalidades de Microsoft Defender for Cl
 1. Cierre la ventana del explorador.
 
 #### Revisión
-En este laboratorio, exploró las funcionalidades de Microsoft Defender for Cloud Apps.  Realizó un recorrido por la información que se muestra en el panel de Cloud Discovery y las funcionalidades disponibles para investigar los resultados y controlar el impacto en su organización a través de directivas.
+En este laboratorio ha explorado las funcionalidades de Microsoft Defender for Cloud Apps.  Ha realizado un recorrido por la información que se muestra en el panel de Cloud Discovery y las funcionalidades disponibles para investigar los resultados y controlar el impacto en su organización a través de directivas.

@@ -19,7 +19,7 @@ En este laboratorio, recorrerá Microsoft Defender for Cloud y aprenderá cómo 
     1. Escriba la contraseña de administrador que debería haberle proporcionado su proveedor de servicios de hospedaje de laboratorios. Seleccione **Iniciar sesión**.
     1. Cuando aparezca un mensaje para preguntarle si quiere mantener la sesión iniciada, seleccione **Sí**.
 
-1. En la esquina superior izquierda de la pantalla, junto a las palabras Microsoft Azure, seleccione el icono Mostrar el menú del portal (las tres líneas horizontales, también denominadas icono de hamburguesa) y luego, en el panel de navegación de la izquierda, en Favoritos, seleccione **Microsoft Defender for Cloud**.  Si no aparece bajo Favoritos, en el cuadro de búsqueda, escriba** Microsoft Defender for Cloud** y, en la lista de resultados, seleccione **Microsoft Defender for Cloud**.
+1. En la esquina superior izquierda de la pantalla, junto a las palabras Microsoft Azure, seleccione el icono Mostrar el menú del portal (las tres líneas horizontales, también denominadas icono de hamburguesa) y luego, en el panel de navegación de la izquierda, en Favoritos, seleccione **Microsoft Defender for Cloud**.  Si no aparece bajo Favoritos, en el cuadro de búsqueda, escriba **Microsoft Defender for Cloud** y, en la lista de resultados, seleccione **Microsoft Defender for Cloud**.
 
 1. Fíjese en la información disponible en la página de información general de Microsoft Defender for Cloud.  
 
